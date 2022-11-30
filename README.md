@@ -14,21 +14,20 @@
     <th>
       <div>
        
-<img src="https://user-images.githubusercontent.com/109025674/204686937-899961f8-b5aa-4ec4-bcb0-c9527d59147b.jpg" width="400" height="400"/>
+ <img src="https://user-images.githubusercontent.com/109025674/204686942-574064fe-0ae5-4fdd-8787-40537fde682d.jpg" width="400" height="400" />
       </div>
-     자의반 타의반으로 받은 편지 ㅋㅋㅋ
+     친구가 만들어준 칭찬감옥 짤
     </th>
     <th>
       <div>
-       <img src="https://user-images.githubusercontent.com/109025674/204686942-574064fe-0ae5-4fdd-8787-40537fde682d.jpg" width="400" height="400" />
+ <img src="https://user-images.githubusercontent.com/109025674/204686937-899961f8-b5aa-4ec4-bcb0-c9527d59147b.jpg" width="400" height="400"/>
       </div>
-     친구가 만들어준 칭찬감옥 짤
+    친구가 자의반 타의반(?)으로 써준 편지
     </th>
   </tr>
 </thead>
 </tbody>
 </table>
-
 
 
 
