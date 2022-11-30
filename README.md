@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @jinaSE0
+<!-- - 👋 Hi, I’m @jinaSE0
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 소개 페이지는 천천히 작성할 예정
-- 아래 사진들은 친구들이 응원해준거 보면서 힘내서 공부하려고 올려둠 ㅎㅎ
+- 📫 How to reach me ... -->
+- 👋소개 페이지는 천천히 작성할 예정
+- 👀아래 사진들은 친구들이 응원해준거 보면서 힘내서 공부하려고 올려둠 ㅎㅎ
 
 
 <div align="center">
