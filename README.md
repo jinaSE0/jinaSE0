@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 - 👋소개 페이지는 천천히 작성할 예정
-- 👀아래 사진들은 친구들이 응원해준거 보면서 힘내서 공부하려고 올려둠 ㅎㅎ
+- 👀아래 사진들은 깃허브들어올때마다 힘내서 공부하려고 올려둠 ㅎㅎ
 
 
 <div align="center">
@@ -35,9 +35,9 @@
     </th>
     <th>
       <div>
- <img src="" width="300" height="300"/>
+ <img src="https://user-images.githubusercontent.com/109025674/208355926-73c423b6-7616-4f33-a5bf-196faead93f0.jpg" width="300" height="300"/>
       </div>
-    일단 생각안나니까 공란... 힘내서 공부하자잉
+    편지
     </th>
   </tr>
 </thead>
