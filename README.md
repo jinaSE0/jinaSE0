@@ -2,10 +2,11 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 📫 How to reach me ...
 - 👋소개 페이지는 천천히 작성할 예정
 - 👀아래 사진들은 깃허브들어올때마다 힘내서 공부하려고 올려둠 ㅎㅎ
-
+ -->
+ 
 <!---
 <div align="center">
 <table>
